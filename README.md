@@ -12,7 +12,7 @@ Install dependencies with pip3 (requests, bs4, json, urllib, argparse, logging, 
 
 Come up with a keyword, may be more than one word long (names, places, etc)
 
-Run
+Usage:
 ```
 python3 WikiScrape.py [keyword]
 ```
