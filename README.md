@@ -6,9 +6,11 @@ A web scraper for Wikipedia: https://en.wikipedia.org/
 
 On Linux:
 
-Download WikiScrape.py from the repository
+Download the repository, extract zip folder to desired location
 
 Install dependencies with pip3 (requests, bs4, json, urllib, argparse, logging, re)
+
+Navigate to directory or add to path to use
 
 Come up with a keyword, may be more than one word long (names, places, etc)
 
